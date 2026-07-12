@@ -66,6 +66,9 @@ https://github.com/RoobakM/employee-management-system
 ### Grocery Delivery Web Application
 Modern React-based grocery delivery platform featuring product management, shopping cart, flash deals, and order tracking.
 
+🔗 Repository:
+https://github.com/RoobakM/Groceries-Delivery.git
+
 *Currently enhancing the project with additional features and documentation.*
 
 ---
